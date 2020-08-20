@@ -1,7 +1,7 @@
 {
   "name": "@bugbearr/ie11support",
   "description": "IE11 Support",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "browserslist": [
     "ie 11",
     "maintained node versions"
