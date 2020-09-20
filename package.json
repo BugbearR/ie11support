@@ -1,7 +1,7 @@
 {
   "name": "@bugbearr/ie11support",
   "description": "IE11 Support",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "browserslist": [
     "ie 11",
     "maintained node versions"
@@ -24,6 +24,7 @@
     "typescript": "^4.0.3"
   },
   "files": [
+    "src",
     "esm",
     "min",
     "umd",
